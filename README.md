@@ -5,6 +5,8 @@ sample()
     public static void
     {
     sample s=new sample();
+    }
+    this is default constructor
 
 <!---
 deepashet/deepashet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
