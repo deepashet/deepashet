@@ -7,6 +7,7 @@ sample()
     sample s=new sample();
     }
     this is default constructor
+    hello how are u
 
 <!---
 deepashet/deepashet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
